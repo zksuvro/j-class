@@ -1,0 +1,16 @@
+
+.Dhaka{
+    border: 5px solid red;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    color: darkblue;
+    text-align: justify;
+}
