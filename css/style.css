@@ -14,3 +14,21 @@ p{
     color: darkblue;
     text-align: justify;
 }
+input:focus{
+    font-size: 20px;
+    color: gold;
+}
+li:last-child{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+li:first-child{
+    background-color: blueviolet;
+    font-size: 30px;
+}
+li:nth-child(2n+1){
+    background-color: bisque;
+}
+a:visited{
+    color: brown;
+}
